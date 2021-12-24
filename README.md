@@ -1,7 +1,7 @@
-# Conf-Json
+# Config-Json
 ### An Easier Way to work with JSON configs
 this library provide some top level method to make it easy to work with json
-
+`Link: https://pypi.org/project/config-json/`
 1. How to Use? 
 ```python
 from jconf.config import Config
