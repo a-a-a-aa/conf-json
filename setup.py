@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="conf-json",
+    name="conf.json",
     version="0.0.1",
     author="Ali kamran",
     author_email="astefard@gmail.com",
