@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="conf.json",
+    name="config-json",
     version="0.0.1",
     author="Ali kamran",
     author_email="astefard@gmail.com",
     description="An Easier Way to work with json files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/a-a-a-aa/conf-json",
+    url="https://github.com/a-a-a-aa/config-json",
     project_urls={
         "Bug Tracker": "https://github.com/a-a-a-aa/conf-json/issues",
     },
